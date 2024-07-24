@@ -1,0 +1,23 @@
+
+.homepage-window-button {
+    position: fixed;
+    background-color: #BB86FC;
+    border: none;
+    border-radius: 20%;
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 82%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 2.8svh;
+    width: 15svw;
+}
+
+.homepage-window-button:active {
+    background-color: #C51162;
+}
