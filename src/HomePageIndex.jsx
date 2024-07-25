@@ -57,7 +57,7 @@ function HomePageIndex() {
                         id="homepageMenuButton1" onClick={openGitHub}>MyGitHub
                 </button>
                 <button className={`homepage-menu-button-2 ${isActive ? "homepage-hide-menu-button-2" : ""}`}
-                        id="homepageMenuButton2" onClick={openResume}>Résumé/Curriculum
+                        id="homepageMenuButton2" onClick={openResume}>Résumé
                 </button>
                 <button className={`homepage-menu-button-3 ${isActive ? "homepage-hide-menu-button-3" : ""}`}
                         id="homepageMenuButton3" onClick={openJaguarDemo}>JaguarDemo
