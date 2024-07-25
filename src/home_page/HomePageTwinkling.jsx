@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-const dotImageSrc = '/public/STAR_BLACK.webp';
+const dotImageSrc = 'STAR_BLACK.webp';
 
 const DotImageComponent = () => {
   const dotCount = 30;
