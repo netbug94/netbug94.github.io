@@ -1,0 +1,45 @@
+/* Top border animation */
+.top-border-animation {
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 1svh; /* Assuming these units are intentional */
+    width: 100svw; /* Assuming these units are intentional */
+    background-color: black; /* Added for visibility */
+    overflow: hidden;
+    transition: transform .5s ease-out, opacity 2s ease-out;
+}
+
+.top-border-animation::before {
+    content: '';
+    position: fixed;
+    height: 100vh;
+    width: 10vw;
+    background-color: #BB86FC;
+    animation: rotate 30s linear infinite;
+}
+
+.top-border-animation::after {
+    content: '';
+    position: fixed;
+    background-color: black;
+    inset: 5px;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.homepage-activate-top-bar {
+    opacity: 1;
+    transform: translate(-50%, -100%);
+}
