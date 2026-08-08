@@ -38,11 +38,11 @@
     "endDate": "2024",
     "tagline": "Built a real-time infrastructure monitoring system while running IT ops for a bulk terminal.",
     "highlights": [
-      "Kotlin Multiplatform client + Go backend for live infra alerts",
+      "Kotlin Multiplatform client + Ktor backend for live infra alerts",
       "Windows/Linux server admin, AD & Apple MDM fleet management",
       "Network observability via Zabbix, Grafana, LibreNMS"
     ],
-    "stack": ["Kotlin Multiplatform", "Go", "Zabbix", "Grafana", "Windows Server", "Linux"]
+    "stack": ["Kotlin Multiplatform", "Ktor", "Zabbix", "Grafana", "Windows Server", "Linux"]
   },
   {
     "company": "Intersistemas Comunicación y Cómputo",
