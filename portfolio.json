@@ -1,0 +1,61 @@
+[
+  {
+    "company": "O'Reilly Autopartes México",
+    "logo": null,
+    "title": "Software Engineer II",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "startDate": "Jan 2025",
+    "endDate": "Present",
+    "tagline": "First Android engineer in O'Reilly's Mexico corp, building the O'Reilly Pro app for the U.S. B2B team.",
+    "highlights": [
+      "Ship features in Kotlin & Jetpack Compose inside a legacy XML/Fragment codebase",
+      "Clean MVVM with Retrofit, Dagger Hilt, Firebase",
+      "Agile delivery, pixel-perfect Figma handoff, Sauce Labs testing"
+    ],
+    "stack": ["Kotlin", "Jetpack Compose", "MVVM", "Retrofit", "Dagger Hilt", "Firebase"]
+  },
+  {
+    "company": "Intersistemas Comunicación y Cómputo",
+    "logo": null,
+    "title": "Software Engineer",
+    "location": "Hermosillo, Sonora, Mexico",
+    "startDate": "Dec 2025",
+    "endDate": "Present",
+    "tagline": "Architecting a cross-platform streaming client from scratch — Android, Android TV, Desktop, and now iOS.",
+    "highlights": [
+      "Kotlin Multiplatform + Compose Multiplatform across every target",
+      "Clean Architecture, Vertical Slice, MVI",
+      "Full-stack: also owns the backend API"
+    ],
+    "stack": ["Kotlin Multiplatform", "Compose Multiplatform", "Clean Architecture", "MVI", "Swift/SwiftUI"]
+  },
+  {
+    "company": "GRID Networks / Neptune Bulk Terminals",
+    "logo": null,
+    "title": "IT Specialist Engineer",
+    "location": "Vancouver, BC, Canada",
+    "startDate": "Sep 2022",
+    "endDate": "2024",
+    "tagline": "Built a real-time infrastructure monitoring system while running IT ops for a bulk terminal.",
+    "highlights": [
+      "Kotlin Multiplatform client + Go backend for live infra alerts",
+      "Windows/Linux server admin, AD & Apple MDM fleet management",
+      "Network observability via Zabbix, Grafana, LibreNMS"
+    ],
+    "stack": ["Kotlin Multiplatform", "Go", "Zabbix", "Grafana", "Windows Server", "Linux"]
+  },
+  {
+    "company": "Intersistemas Comunicación y Cómputo",
+    "logo": null,
+    "title": "IT Engineer",
+    "location": "Sonora, Mexico",
+    "startDate": "Jan 2014",
+    "endDate": "2020",
+    "tagline": "Where it started — hardware support to full infrastructure design and deployment.",
+    "highlights": [
+      "End-to-end IT solutions for small/mid-size businesses",
+      "Progressed from hardware repair to network & server administration"
+    ],
+    "stack": ["Windows", "Linux", "Networking", "Hardware"]
+  }
+]
